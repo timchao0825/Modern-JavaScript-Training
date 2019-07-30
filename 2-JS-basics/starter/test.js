@@ -329,3 +329,4 @@ for (let i = 0; i < originalBill.length; i++) {
 //   return bill;
 // }
 // var anotherBill = [77 , 375 , 110 , 45];
+// end session 2 course
